@@ -1,0 +1,7 @@
+C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobStorageExample\obj\Debug\net5.0\BlobStorageExample.csproj.AssemblyReference.cache
+C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobStorageExample\obj\Debug\net5.0\BlobStorageExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobStorageExample\obj\Debug\net5.0\BlobStorageExample.AssemblyInfoInputs.cache
+C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobStorageExample\obj\Debug\net5.0\BlobStorageExample.AssemblyInfo.cs
+C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobStorageExample\obj\Debug\net5.0\BlobStorageExample.csproj.CoreCompileInputs.cache
+C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobStorageExample\obj\Debug\net5.0\BlobStorageExample.MvcApplicationPartsAssemblyInfo.cs
+C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobStorageExample\obj\Debug\net5.0\BlobStorageExample.MvcApplicationPartsAssemblyInfo.cache
