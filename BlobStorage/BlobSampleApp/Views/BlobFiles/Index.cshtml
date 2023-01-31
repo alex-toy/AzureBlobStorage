@@ -2,14 +2,15 @@
 
 <div>
     <div>
-        <a asp-action="Create" asp-contoller="BlobFiles" >Add blob</a>
+        <a asp-action="AddFile" asp-contoller="BlobFiles" >Add blob</a>
     </div>
     <div>
         <ul>
             @foreach(var item in Model)
             {
                 <li>
-                    <a asp-action="ViewFile" asp-controller="BlobFiles" asp-route-name="@item">@item</a>
+                    <a asp-action="ViewFile" asp-controller="BlobFiles" asp-route-name="@item" target="_blank">@item</a>
+                    <a asp-action="Delete" asp-controller="BlobFiles" asp-route-name="@item" target="_blank">Delete</a>
                 </li>
             }
         </ul>

@@ -19,7 +19,7 @@ namespace BlobStorageExample.Services
             BlobContainerClient containerClient = _blobServiceClient.GetBlobContainerClient("mycontainer");
             BlobClient blobCient = containerClient.GetBlobClient(name);
             BlobDownloadInfo blobDownloadInfo = await blobCient.DownloadAsync();
-            BlobInfo blobInfo = new BlobInfo();
+            BlobInfo blobInfo = new BlobInfo(blobDownloadInfo.Content, blobDownloadInfo.GetType());
             return blobInfo;
         }
 

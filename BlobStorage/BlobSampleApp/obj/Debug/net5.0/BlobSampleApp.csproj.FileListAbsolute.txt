@@ -44,3 +44,4 @@ C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobSampleApp\obj\Debug\n
 C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.pdb
 C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobSampleApp\obj\Debug\net5.0\BlobSampleApp.genruntimeconfig.cache
 C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobSampleApp\obj\Debug\net5.0\ref\BlobSampleApp.dll
+C:\source\CSsharpPackages\AzureBlobStorage\BlobStorage\BlobSampleApp\obj\Debug\net5.0\Razor\Views\BlobFiles\AddFile.cshtml.g.cs
