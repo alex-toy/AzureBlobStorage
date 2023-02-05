@@ -21,6 +21,7 @@ Azure.Storage.Blobs
 
 ## Getting started with Azure Blob Storage in .NET Core 
 Azure resources identical to above project.
-https://www.youtube.com/watch?v=9ZpMpf9dNDA not finished, proble with **BlobInfo**
+
+https://www.youtube.com/watch?v=9ZpMpf9dNDA not finished, problem with **BlobInfo**
 
 

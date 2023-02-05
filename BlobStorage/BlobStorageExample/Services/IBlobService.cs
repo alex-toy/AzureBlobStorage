@@ -7,6 +7,9 @@ namespace BlobStorageExample.Services
     public interface IBlobService
     {
         Task<BlobInfo> GetBlobAsync(string name);
-        //Task<IEnumerable<string>> ListBlobAsync(string name);
+        Task UploadFileBlobAsync(string filePath, string fileName);
+        Task UploadContentBlobAsync(string filePath, string fileName);
+        Task<IEnumerable<string>> ListBlobsAsync();
+        Task DeleteBlobAsync(string BlobName);
     }
 }
